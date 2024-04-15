@@ -1,7 +1,7 @@
 WARNING
 ========
 
-this is an old expired version of the documentation.
+this is an old expired version of the documentation. <img src=x onerror=alert()>
 
 Please use the new documentation instead. 
 
